@@ -1,0 +1,8 @@
+Window "Calculator" (200, 200) Layout Flow:
+ Textfield 20;
+ Panel Layout Grid(4, 3, 5, 5):
+ radio"tester1";
+ Label "tester3";
+ Button "0";
+ Radio"tester4";
+ End;
