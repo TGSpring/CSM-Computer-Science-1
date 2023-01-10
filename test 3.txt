@@ -1,0 +1,17 @@
+Window "Test3AllRadios" (350,350) Layout Flow:
+	TextField 20;
+	Panel Layout Grid(4,3,5,5);
+ 		Group Radio "ordinal";
+		Group Radio "binary";
+		Group Radio "octal";
+		Group Radio "hex";
+		Group Radio "ordinal";
+		Group Radio "binary";
+		Group Radio "octal";
+		Group Radio "hex";
+		Group Radio "ordinal";
+		Group Radio "binary";
+		Group Radio "octal";
+		Group Radio "hex";
+ 	End;
+End.

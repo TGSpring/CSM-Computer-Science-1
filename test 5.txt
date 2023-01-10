@@ -1,0 +1,8 @@
+Window "Test5" (400,400) Layout Flow:
+	Panel Layout Grid(10,10,16,16);
+ 		Label "This is to test with labels";
+		Button "Spacer";
+		Label "I am not sure why they are spacing like this";
+		Label "But oh well";
+ 	End;
+End.
